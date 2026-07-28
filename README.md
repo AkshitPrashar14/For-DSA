@@ -22,16 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshitPrashar14/For-DSA/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AkshitPrashar14/For-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshitPrashar14/For-DSA/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AkshitPrashar14/For-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshitPrashar14/For-DSA/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AkshitPrashar14/For-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshitPrashar14/For-DSA/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AkshitPrashar14/For-DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
