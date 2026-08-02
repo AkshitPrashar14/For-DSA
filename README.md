@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AkshitPrashar14/For-DSA/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/AkshitPrashar14/For-DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/AkshitPrashar14/For-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AkshitPrashar14/For-DSA/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/AkshitPrashar14/For-DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/AkshitPrashar14/For-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AkshitPrashar14/For-DSA/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AkshitPrashar14/For-DSA/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AkshitPrashar14/For-DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
