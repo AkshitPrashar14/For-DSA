@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshitPrashar14/For-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/AkshitPrashar14/For-DSA/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkshitPrashar14/For-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/AkshitPrashar14/For-DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshitPrashar14/For-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/AkshitPrashar14/For-DSA/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AkshitPrashar14/For-DSA/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1470-shuffle-the-array) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AkshitPrashar14/For-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0645-set-mismatch](https://github.com/AkshitPrashar14/For-DSA/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AkshitPrashar14/For-DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
