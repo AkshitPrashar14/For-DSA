@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshitPrashar14/For-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/AkshitPrashar14/For-DSA/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AkshitPrashar14/For-DSA/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
